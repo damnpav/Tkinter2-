@@ -1,0 +1,35 @@
+28 out of 28____________________________________________________  
+From          | To            | Flight   | Departure   | Arrival  
+________________________________________________________________  
+Moscow        | New_York      | 635      | 12:20       | 23:50    
+London        | New_York      | 155      | 11:34       | 17:12    
+London        | Moscow        | 524      | 13:49       | 17:32    
+Tumen         | Moscow        | 536      | 16:20       | 17:49    
+Moscow        | London        | 737      | 14:12       | 15:21    
+Moscow        | Tumen         | 612      | 12:32       | 16:23    
+New_York      | London        | 632      | 16:12       | 23:12    
+New_York      | Moscow        | 634      | 16:32       | 00:21    
+Magadan       | New_York      | 666      | 12:43       | 21:12    
+Moscow        | Magadan       | 184      | 15:32       | 18:12    
+Los_Angeles   | New_York      | 333      | 14:43       | 17:32    
+Moscow        | Los_Angeles   | 777      | 15:32       | 21:31    
+Los_Angeles   | Moscow        | 521      | 06:12       | 13:32    
+New_York      | Los_Angeles   | 387      | 04:12       | 06:54    
+Moscow        | New_York      | 637      | 15:20       | 00:50    
+London        | New_York      | 151      | 13:44       | 19:22    
+London        | Moscow        | 522      | 05:53       | 07:32    
+Tumen         | Moscow        | 537      | 19:20       | 23:49    
+Moscow        | London        | 734      | 17:12       | 21:21    
+Moscow        | Tumen         | 617      | 23:32       | 05:23    
+New_York      | London        | 630      | 14:12       | 00:12    
+New_York      | Moscow        | 638      | 13:56       | 19:43    
+Magadan       | New_York      | 667      | 21:43       | 02:12    
+Moscow        | Magadan       | 185      | 07:32       | 09:12    
+Los_Angeles   | New_York      | 334      | 03:43       | 07:36    
+Moscow        | Los_Angeles   | 776      | 02:32       | 07:21    
+Los_Angeles   | Moscow        | 520      | 21:12       | 07:32    
+New_York      | Los_Angeles   | 388      | 15:12       | 19:54    
+________________________________________________________________  
+
+
+
